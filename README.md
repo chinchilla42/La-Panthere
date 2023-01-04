@@ -1,4 +1,4 @@
-# La-Panthere - Optimisez un site web existant
+# La-Panthere - Optimiser un site web existant
 
 Avant : https://chinchilla42.github.io/orig/
 
