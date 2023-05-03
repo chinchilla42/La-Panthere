@@ -1,5 +1,5 @@
 # La-Panthere - Optimiser un site web existant
 
-Avant : https://chinchilla42.github.io/orig/
+Before: https://chinchilla42.github.io/orig/
 
-Après : https://chinchilla42.github.io/La-Panthere/
+After: https://chinchilla42.github.io/La-Panthere/
